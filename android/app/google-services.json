@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740954650941",
+    "project_id": "garrison-87625",
+    "storage_bucket": "garrison-87625.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740954650941:android:8dcc34779ae5c8938bad54",
+        "android_client_info": {
+          "package_name": "com.hummingbird.garrison"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJDf_RWahdUlkaIMBtK--CqGQG7gyKzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

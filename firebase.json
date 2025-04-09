@@ -1,0 +1,45 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "garrison-87625",
+          "appId": "1:740954650941:android:8dcc34779ae5c8938bad54",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "garrison-87625",
+          "appId": "1:740954650941:ios:bc9b6b95807abe488bad54",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "garrison-87625",
+          "configurations": {
+            "android": "1:740954650941:android:8dcc34779ae5c8938bad54",
+            "ios": "1:740954650941:ios:bc9b6b95807abe488bad54",
+            "web": "1:740954650941:web:f463505bcf771b6f8bad54"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "garrison",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
