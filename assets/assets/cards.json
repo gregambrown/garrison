@@ -1,0 +1,40 @@
+[
+  {
+    "id": "c1",
+    "title": "Help Granny Across di Street",
+    "goodAction": "You guide her safely. +5 points.",
+    "badAction": "You ignore her. -2 points.",
+    "goodPoints": 5,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c2",
+    "title": "Gun Salute inna di Lane",
+    "goodAction": "You report it anonymously. +3 points.",
+    "badAction": "You join in. -5 points.",
+    "goodPoints": 3,
+    "badPoints": -5,
+    "isHotSpot": true
+  },
+  {
+    "id": "c4",
+    "title": "Secret Meeting at HQ",
+    "goodAction": "Turn it down. +2 points.",
+    "badAction": "Accept invitation. Become Don.",
+    "goodPoints": 2,
+    "badPoints": 0,
+    "isHotSpot": true,
+    "unlockRole": "Don"
+  },
+  {
+    "id": "c5",
+    "title": "MP Council Wants You",
+    "goodAction": "Say yes. Become MP.",
+    "badAction": "Walk away. -1 point.",
+    "goodPoints": 0,
+    "badPoints": -1,
+    "isHotSpot": false,
+    "unlockRole": "MP"
+  }
+]
