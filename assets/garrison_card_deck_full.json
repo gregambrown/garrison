@@ -1,0 +1,915 @@
+[
+  {
+    "id": "c1",
+    "title": "Help Granny Cross",
+    "goodAction": "Yuh hold Granny hand and guide her 'cross di busy road. +3 points.",
+    "badAction": "Yuh laugh and buss off when she nearly drop. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c2",
+    "title": "Gun Salute inna di Lane",
+    "goodAction": "Yuh record secretly and send to Crime Stop. +4 points.",
+    "badAction": "Yuh buss a shot inna di air fi show face. -5 points.",
+    "goodPoints": 4,
+    "badPoints": -5,
+    "isHotSpot": true
+  },
+  {
+    "id": "c3",
+    "title": "Church Fundraiser",
+    "goodAction": "Yuh help cook and sell pudding fi build back di roof. +2 points.",
+    "badAction": "Yuh tief a soda outta di cooler when nobody nah look. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c4",
+    "title": "Call from Don",
+    "goodAction": "Yuh block di number and delete di link. +5 points.",
+    "badAction": "Yuh show up at di base fi prove loyalty. -4 points.",
+    "goodPoints": 5,
+    "badPoints": -4,
+    "isHotSpot": true,
+    "unlockRole": "Don"
+  },
+  {
+    "id": "c5",
+    "title": "Back to School Treat",
+    "goodAction": "Yuh hand out books and tell pickney dem fi stay in school. +3 points.",
+    "badAction": "Yuh rush di line and tek extra bag fi yuh cousin weh nuh reach. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c6",
+    "title": "Zone Meeting",
+    "goodAction": "Yuh raise concerns 'bout road conditions and youth space. +2 points.",
+    "badAction": "Yuh spread rumours 'bout di councillor fi clout. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c7",
+    "title": "MP Pass Through",
+    "goodAction": "Yuh suggest a community garden idea. +4 points.",
+    "badAction": "Yuh ask fi money and promise fake support. -2 points.",
+    "goodPoints": 4,
+    "badPoints": -2,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c8",
+    "title": "Illegal Party",
+    "goodAction": "Yuh warn yuh friends bout di raid an leave early. +1 point.",
+    "badAction": "Yuh bring yute underage and hype him up fi drink. -5 points.",
+    "goodPoints": 1,
+    "badPoints": -5,
+    "isHotSpot": true
+  },
+  {
+    "id": "c9",
+    "title": "Volunteer Weekend",
+    "goodAction": "Yuh sweep yard fi Miss Ivy and fix up di step. +3 points.",
+    "badAction": "Yuh promise fi help and never show up. -1 point.",
+    "goodPoints": 3,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c10",
+    "title": "Dance Inna Scheme",
+    "goodAction": "Yuh promote peace an\u2019 stop two man from fight over bumpa. +2 points.",
+    "badAction": "Yuh flick bottle after di clash tune. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": true
+  },
+  {
+    "id": "c11",
+    "title": "Youth Club Debate",
+    "goodAction": "Yuh speak truth 'bout community needs an' reason calm. +3 points.",
+    "badAction": "Yuh disrupt and call di opposition fool. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c12",
+    "title": "Police Spot Check",
+    "goodAction": "Yuh stay calm and show ID wid respect. +2 points.",
+    "badAction": "Yuh cuss off di officer an dash yuh ID. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": false,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c13",
+    "title": "School Expel Case",
+    "goodAction": "Yuh talk to di principal and offer fi mentor di youth. +4 points.",
+    "badAction": "Yuh hype up di youth fi \u2018bad up\u2019 di teacher. -3 points.",
+    "goodPoints": 4,
+    "badPoints": -3,
+    "isHotSpot": true,
+    "unlockRole": "JP"
+  },
+  {
+    "id": "c14",
+    "title": "Fire in Di Tenement",
+    "goodAction": "Yuh kick down door an help people out. +5 points.",
+    "badAction": "Yuh film it fi views instead of calling fire truck. -6 points.",
+    "goodPoints": 5,
+    "badPoints": -6,
+    "isHotSpot": true
+  },
+  {
+    "id": "c15",
+    "title": "Prayer Meeting",
+    "goodAction": "Yuh offer testimony and pray wid yuh whole heart. +2 points.",
+    "badAction": "Yuh deh pon phone di whole time scrolling memes. -2 points.",
+    "goodPoints": 2,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c16",
+    "title": "Scenario #16",
+    "goodAction": "Yuh do di right ting in scenario 16, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 2,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c17",
+    "title": "Scenario #17",
+    "goodAction": "Yuh do di right ting in scenario 17, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 3,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c18",
+    "title": "Scenario #18",
+    "goodAction": "Yuh do di right ting in scenario 18, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 4,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c19",
+    "title": "Scenario #19",
+    "goodAction": "Yuh do di right ting in scenario 19, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 5,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c20",
+    "title": "Scenario #20",
+    "goodAction": "Yuh do di right ting in scenario 20, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 1,
+    "badPoints": -3,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c21",
+    "title": "Scenario #21",
+    "goodAction": "Yuh do di right ting in scenario 21, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c22",
+    "title": "Scenario #22",
+    "goodAction": "Yuh do di right ting in scenario 22, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 3,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c23",
+    "title": "Scenario #23",
+    "goodAction": "Yuh do di right ting in scenario 23, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 4,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c24",
+    "title": "Scenario #24",
+    "goodAction": "Yuh do di right ting in scenario 24, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 5,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c25",
+    "title": "Scenario #25",
+    "goodAction": "Yuh do di right ting in scenario 25, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 1,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c26",
+    "title": "Scenario #26",
+    "goodAction": "Yuh do di right ting in scenario 26, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c27",
+    "title": "Scenario #27",
+    "goodAction": "Yuh do di right ting in scenario 27, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 3,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c28",
+    "title": "Scenario #28",
+    "goodAction": "Yuh do di right ting in scenario 28, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 4,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c29",
+    "title": "Scenario #29",
+    "goodAction": "Yuh do di right ting in scenario 29, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 5,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c30",
+    "title": "Scenario #30",
+    "goodAction": "Yuh do di right ting in scenario 30, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 1,
+    "badPoints": -1,
+    "isHotSpot": true,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c31",
+    "title": "Scenario #31",
+    "goodAction": "Yuh do di right ting in scenario 31, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 2,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c32",
+    "title": "Scenario #32",
+    "goodAction": "Yuh do di right ting in scenario 32, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 3,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c33",
+    "title": "Scenario #33",
+    "goodAction": "Yuh do di right ting in scenario 33, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 4,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c34",
+    "title": "Scenario #34",
+    "goodAction": "Yuh do di right ting in scenario 34, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 5,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c35",
+    "title": "Scenario #35",
+    "goodAction": "Yuh do di right ting in scenario 35, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 1,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c36",
+    "title": "Scenario #36",
+    "goodAction": "Yuh do di right ting in scenario 36, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 2,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c37",
+    "title": "Scenario #37",
+    "goodAction": "Yuh do di right ting in scenario 37, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c38",
+    "title": "Scenario #38",
+    "goodAction": "Yuh do di right ting in scenario 38, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 4,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c39",
+    "title": "Scenario #39",
+    "goodAction": "Yuh do di right ting in scenario 39, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 5,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c40",
+    "title": "Scenario #40",
+    "goodAction": "Yuh do di right ting in scenario 40, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 1,
+    "badPoints": -5,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c41",
+    "title": "Scenario #41",
+    "goodAction": "Yuh do di right ting in scenario 41, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 2,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c42",
+    "title": "Scenario #42",
+    "goodAction": "Yuh do di right ting in scenario 42, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 3,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c43",
+    "title": "Scenario #43",
+    "goodAction": "Yuh do di right ting in scenario 43, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 4,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c44",
+    "title": "Scenario #44",
+    "goodAction": "Yuh do di right ting in scenario 44, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 5,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c45",
+    "title": "Scenario #45",
+    "goodAction": "Yuh do di right ting in scenario 45, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 1,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c46",
+    "title": "Scenario #46",
+    "goodAction": "Yuh do di right ting in scenario 46, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 2,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c47",
+    "title": "Scenario #47",
+    "goodAction": "Yuh do di right ting in scenario 47, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 3,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c48",
+    "title": "Scenario #48",
+    "goodAction": "Yuh do di right ting in scenario 48, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 4,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c49",
+    "title": "Scenario #49",
+    "goodAction": "Yuh do di right ting in scenario 49, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 5,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c50",
+    "title": "Scenario #50",
+    "goodAction": "Yuh do di right ting in scenario 50, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 1,
+    "badPoints": -3,
+    "isHotSpot": true,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c51",
+    "title": "Scenario #51",
+    "goodAction": "Yuh do di right ting in scenario 51, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c52",
+    "title": "Scenario #52",
+    "goodAction": "Yuh do di right ting in scenario 52, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 3,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c53",
+    "title": "Scenario #53",
+    "goodAction": "Yuh do di right ting in scenario 53, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 4,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c54",
+    "title": "Scenario #54",
+    "goodAction": "Yuh do di right ting in scenario 54, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 5,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c55",
+    "title": "Scenario #55",
+    "goodAction": "Yuh do di right ting in scenario 55, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 1,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c56",
+    "title": "Scenario #56",
+    "goodAction": "Yuh do di right ting in scenario 56, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c57",
+    "title": "Scenario #57",
+    "goodAction": "Yuh do di right ting in scenario 57, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 3,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c58",
+    "title": "Scenario #58",
+    "goodAction": "Yuh do di right ting in scenario 58, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 4,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c59",
+    "title": "Scenario #59",
+    "goodAction": "Yuh do di right ting in scenario 59, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 5,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c60",
+    "title": "Scenario #60",
+    "goodAction": "Yuh do di right ting in scenario 60, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 1,
+    "badPoints": -1,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c61",
+    "title": "Scenario #61",
+    "goodAction": "Yuh do di right ting in scenario 61, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 2,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c62",
+    "title": "Scenario #62",
+    "goodAction": "Yuh do di right ting in scenario 62, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 3,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c63",
+    "title": "Scenario #63",
+    "goodAction": "Yuh do di right ting in scenario 63, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 4,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c64",
+    "title": "Scenario #64",
+    "goodAction": "Yuh do di right ting in scenario 64, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 5,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c65",
+    "title": "Scenario #65",
+    "goodAction": "Yuh do di right ting in scenario 65, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 1,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c66",
+    "title": "Scenario #66",
+    "goodAction": "Yuh do di right ting in scenario 66, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 2,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c67",
+    "title": "Scenario #67",
+    "goodAction": "Yuh do di right ting in scenario 67, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c68",
+    "title": "Scenario #68",
+    "goodAction": "Yuh do di right ting in scenario 68, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 4,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c69",
+    "title": "Scenario #69",
+    "goodAction": "Yuh do di right ting in scenario 69, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 5,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c70",
+    "title": "Scenario #70",
+    "goodAction": "Yuh do di right ting in scenario 70, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 1,
+    "badPoints": -5,
+    "isHotSpot": true,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c71",
+    "title": "Scenario #71",
+    "goodAction": "Yuh do di right ting in scenario 71, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 2,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c72",
+    "title": "Scenario #72",
+    "goodAction": "Yuh do di right ting in scenario 72, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 3,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c73",
+    "title": "Scenario #73",
+    "goodAction": "Yuh do di right ting in scenario 73, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 4,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c74",
+    "title": "Scenario #74",
+    "goodAction": "Yuh do di right ting in scenario 74, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 5,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c75",
+    "title": "Scenario #75",
+    "goodAction": "Yuh do di right ting in scenario 75, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 1,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c76",
+    "title": "Scenario #76",
+    "goodAction": "Yuh do di right ting in scenario 76, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 2,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c77",
+    "title": "Scenario #77",
+    "goodAction": "Yuh do di right ting in scenario 77, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 3,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c78",
+    "title": "Scenario #78",
+    "goodAction": "Yuh do di right ting in scenario 78, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 4,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c79",
+    "title": "Scenario #79",
+    "goodAction": "Yuh do di right ting in scenario 79, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 5,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c80",
+    "title": "Scenario #80",
+    "goodAction": "Yuh do di right ting in scenario 80, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 1,
+    "badPoints": -3,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c81",
+    "title": "Scenario #81",
+    "goodAction": "Yuh do di right ting in scenario 81, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c82",
+    "title": "Scenario #82",
+    "goodAction": "Yuh do di right ting in scenario 82, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 3,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c83",
+    "title": "Scenario #83",
+    "goodAction": "Yuh do di right ting in scenario 83, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 4,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c84",
+    "title": "Scenario #84",
+    "goodAction": "Yuh do di right ting in scenario 84, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 5,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c85",
+    "title": "Scenario #85",
+    "goodAction": "Yuh do di right ting in scenario 85, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 1,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c86",
+    "title": "Scenario #86",
+    "goodAction": "Yuh do di right ting in scenario 86, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c87",
+    "title": "Scenario #87",
+    "goodAction": "Yuh do di right ting in scenario 87, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 3,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c88",
+    "title": "Scenario #88",
+    "goodAction": "Yuh do di right ting in scenario 88, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 4,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c89",
+    "title": "Scenario #89",
+    "goodAction": "Yuh do di right ting in scenario 89, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 5,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c90",
+    "title": "Scenario #90",
+    "goodAction": "Yuh do di right ting in scenario 90, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 1,
+    "badPoints": -1,
+    "isHotSpot": true,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c91",
+    "title": "Scenario #91",
+    "goodAction": "Yuh do di right ting in scenario 91, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 2,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c92",
+    "title": "Scenario #92",
+    "goodAction": "Yuh do di right ting in scenario 92, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 3,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c93",
+    "title": "Scenario #93",
+    "goodAction": "Yuh do di right ting in scenario 93, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 4,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c94",
+    "title": "Scenario #94",
+    "goodAction": "Yuh do di right ting in scenario 94, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 5,
+    "badPoints": -5,
+    "isHotSpot": false
+  },
+  {
+    "id": "c95",
+    "title": "Scenario #95",
+    "goodAction": "Yuh do di right ting in scenario 95, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -6 points.",
+    "goodPoints": 1,
+    "badPoints": -6,
+    "isHotSpot": false
+  },
+  {
+    "id": "c96",
+    "title": "Scenario #96",
+    "goodAction": "Yuh do di right ting in scenario 96, help di community. +2 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -1 points.",
+    "goodPoints": 2,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c97",
+    "title": "Scenario #97",
+    "goodAction": "Yuh do di right ting in scenario 97, help di community. +3 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c98",
+    "title": "Scenario #98",
+    "goodAction": "Yuh do di right ting in scenario 98, help di community. +4 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -3 points.",
+    "goodPoints": 4,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c99",
+    "title": "Scenario #99",
+    "goodAction": "Yuh do di right ting in scenario 99, help di community. +5 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -4 points.",
+    "goodPoints": 5,
+    "badPoints": -4,
+    "isHotSpot": false
+  },
+  {
+    "id": "c100",
+    "title": "Scenario #100",
+    "goodAction": "Yuh do di right ting in scenario 100, help di community. +1 points.",
+    "badAction": "Yuh mess up and bring shame 'pon yuh name. -5 points.",
+    "goodPoints": 1,
+    "badPoints": -5,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  }
+]

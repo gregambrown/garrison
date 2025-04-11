@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:garrison/screens/singleplayer_gamescreen.dart';
 import '../models/player_token.dart';
 import '../services/room_service.dart';
 import '../services/firebase_service.dart';
@@ -60,6 +61,24 @@ class _RoomScreenState extends State<RoomScreen> {
     ));
   }
 
+  void startSoloMode() {
+    final userId = FirebaseService.currentUserId;
+    final name = _nameCtrl.text.trim().isEmpty ? "Player" : _nameCtrl.text.trim();
+
+    final playerToken = PlayerToken(
+      id: userId,
+      displayName: name,
+      color: Colors.green,
+      roles: ['Good Youth'],
+      position: 0,
+      isAI: false,
+    );
+
+    Navigator.push(context, MaterialPageRoute(
+      builder: (_) => SinglePlayerGameScreen(player: playerToken),
+    ));
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -76,6 +95,12 @@ class _RoomScreenState extends State<RoomScreen> {
             ElevatedButton(
               onPressed: createGame,
               child: const Text('Create Game Room'),
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton.icon(
+              onPressed: startSoloMode,
+              icon: const Icon(Icons.person),
+              label: const Text("Play Solo"),
             ),
             const Divider(height: 40),
             TextField(
