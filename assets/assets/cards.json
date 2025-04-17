@@ -1,0 +1,141 @@
+[
+  {
+    "id": "c1",
+    "title": "Help Granny Cross",
+    "goodAction": "Yuh hold Granny hand and guide her 'cross di busy road. +3 points.",
+    "badAction": "Yuh laugh and buss off when she nearly drop. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c2",
+    "title": "Gun Salute inna di Lane",
+    "goodAction": "Yuh record secretly and send to Crime Stop. +4 points.",
+    "badAction": "Yuh buss a shot inna di air fi show face. -5 points.",
+    "goodPoints": 4,
+    "badPoints": -5,
+    "isHotSpot": true
+  },
+  {
+    "id": "c3",
+    "title": "Church Fundraiser",
+    "goodAction": "Yuh help cook and sell pudding fi build back di roof. +2 points.",
+    "badAction": "Yuh tief a soda outta di cooler when nobody nah look. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c4",
+    "title": "Call from Don",
+    "goodAction": "Yuh block di number and delete di link. +5 points.",
+    "badAction": "Yuh show up at di base fi prove loyalty. -4 points.",
+    "goodPoints": 5,
+    "badPoints": -4,
+    "isHotSpot": true,
+    "unlockRole": "Don"
+  },
+  {
+    "id": "c5",
+    "title": "Back to School Treat",
+    "goodAction": "Yuh hand out books and tell pickney dem fi stay in school. +3 points.",
+    "badAction": "Yuh rush di line and tek extra bag fi yuh cousin weh nuh reach. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c6",
+    "title": "Zone Meeting",
+    "goodAction": "Yuh raise concerns 'bout road conditions and youth space. +2 points.",
+    "badAction": "Yuh spread rumours 'bout di councillor fi clout. -3 points.",
+    "goodPoints": 2,
+    "badPoints": -3,
+    "isHotSpot": false
+  },
+  {
+    "id": "c7",
+    "title": "MP Pass Through",
+    "goodAction": "Yuh suggest a community garden idea. +4 points.",
+    "badAction": "Yuh ask fi money and promise fake support. -2 points.",
+    "goodPoints": 4,
+    "badPoints": -2,
+    "isHotSpot": true,
+    "unlockRole": "MP"
+  },
+  {
+    "id": "c8",
+    "title": "Illegal Party",
+    "goodAction": "Yuh warn yuh friends bout di raid an leave early. +1 point.",
+    "badAction": "Yuh bring yute underage and hype him up fi drink. -5 points.",
+    "goodPoints": 1,
+    "badPoints": -5,
+    "isHotSpot": true
+  },
+  {
+    "id": "c9",
+    "title": "Volunteer Weekend",
+    "goodAction": "Yuh sweep yard fi Miss Ivy and fix up di step. +3 points.",
+    "badAction": "Yuh promise fi help and never show up. -1 point.",
+    "goodPoints": 3,
+    "badPoints": -1,
+    "isHotSpot": false
+  },
+  {
+    "id": "c10",
+    "title": "Dance Inna Scheme",
+    "goodAction": "Yuh promote peace an\u2019 stop two man from fight over bumpa. +2 points.",
+    "badAction": "Yuh flick bottle after di clash tune. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": true
+  },
+  {
+    "id": "c11",
+    "title": "Youth Club Debate",
+    "goodAction": "Yuh speak truth 'bout community needs an' reason calm. +3 points.",
+    "badAction": "Yuh disrupt and call di opposition fool. -2 points.",
+    "goodPoints": 3,
+    "badPoints": -2,
+    "isHotSpot": false
+  },
+  {
+    "id": "c12",
+    "title": "Police Spot Check",
+    "goodAction": "Yuh stay calm and show ID wid respect. +2 points.",
+    "badAction": "Yuh cuss off di officer an dash yuh ID. -4 points.",
+    "goodPoints": 2,
+    "badPoints": -4,
+    "isHotSpot": false,
+    "unlockRole": "Babylon"
+  },
+  {
+    "id": "c13",
+    "title": "School Expel Case",
+    "goodAction": "Yuh talk to di principal and offer fi mentor di youth. +4 points.",
+    "badAction": "Yuh hype up di youth fi \u2018bad up\u2019 di teacher. -3 points.",
+    "goodPoints": 4,
+    "badPoints": -3,
+    "isHotSpot": true,
+    "unlockRole": "JP"
+  },
+  {
+    "id": "c14",
+    "title": "Fire in Di Tenement",
+    "goodAction": "Yuh kick down door an help people out. +5 points.",
+    "badAction": "Yuh film it fi views instead of calling fire truck. -6 points.",
+    "goodPoints": 5,
+    "badPoints": -6,
+    "isHotSpot": true
+  },
+  {
+    "id": "c15",
+    "title": "Prayer Meeting",
+    "goodAction": "Yuh offer testimony and pray wid yuh whole heart. +2 points.",
+    "badAction": "Yuh deh pon phone di whole time scrolling memes. -2 points.",
+    "goodPoints": 2,
+    "badPoints": -2,
+    "isHotSpot": false
+  }
+]
